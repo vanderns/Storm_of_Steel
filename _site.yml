@@ -1,0 +1,14 @@
+name: "."
+title: "Storm_of_Steel_map"
+description: |
+  Storm_of_Steel_map
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Welcome"
+      href: welcome.html
+output: distill::distill_article

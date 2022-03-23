@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-03-23T22:24:19+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Storm of Steel Map",
+      "description": "\"Storm of Steel\" is a book by Ernst Junger about his time as a German soldier in WWI",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-03-23T22:24:19+00:00"
+    }
+  ],
+  "collections": []
+}
